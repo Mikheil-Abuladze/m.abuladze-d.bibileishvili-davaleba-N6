@@ -28,6 +28,12 @@ h2 {
   font-size: 32px;
 }
 
+.articles {
+	max-width: 1640px;
+	width: 90%;
+	background-color: blueviolet;
+}	
+
 article {
   width: 463px;
   height: 420px;
