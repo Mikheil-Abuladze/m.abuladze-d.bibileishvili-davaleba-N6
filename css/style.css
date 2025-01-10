@@ -61,3 +61,8 @@ article {
   background: rgb(233, 198, 198);
   margin: 0 auto;
 }
+.Article-services {
+  width: 463px;
+  height: 235px;
+  display: inline-flex;
+}
