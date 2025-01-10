@@ -1,0 +1,17 @@
+@font-face {
+	font-family: "font2";
+	src:url("../Fonts/HELVETICA-NEUE-LT-GEO-75-BOLD.ttf") format("truetype")
+
+* {
+	display: inline-block;
+}
+.articles {
+	max-width: 1640px;
+	width: 90%;
+	background-color: blueviolet;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
