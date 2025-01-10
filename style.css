@@ -1,3 +1,7 @@
+@font-face {
+	font-family: "font2";
+	src:url("../Fonts/HELVETICA-NEUE-LT-GEO-75-BOLD.ttf") format("truetype")
+    
 * {
   margin: 0;
   padding: 0;
