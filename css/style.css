@@ -70,3 +70,22 @@ article {
   src: url('/Fonts/HELVETICA-NEUE-LT-GEO-75-BOLD.ttf');
   width: calc(100%-1513px);
 }
+.fixed {
+  background-color: blue;
+  width: 70px;
+  height: 70px;
+  display: inline-block;
+}
+.fixed2 {
+  background-color:#F9F9F9;
+  width: 70px;
+  height: 70px;
+  right: 3px;
+  display: inline-block;
+}
+.fixed3 {
+  background-color: blue;
+  width: 70px;
+  height: 70px;
+  display: inline-block;
+}
