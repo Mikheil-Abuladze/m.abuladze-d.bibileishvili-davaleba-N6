@@ -54,8 +54,10 @@ article {
   height: 420px;
   display: inline-block;
 }
+
 .bg-paragraph {
   width: 443px;
   height: 125px;
   background: rgb(233, 198, 198);
+  margin: 0 auto;
 }
