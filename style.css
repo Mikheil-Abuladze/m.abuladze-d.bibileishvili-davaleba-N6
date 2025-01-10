@@ -3,3 +3,29 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+img {
+  width: 100%;
+}
+
+.container {
+  max-width: 1640px;
+  width: 90%;
+  margin: 0 auto;
+}
+.section-name {
+  background: blue;
+  max-width: 1920px;
+  height: 308px;
+}
+h2 {
+  padding-left: 240px;
+  padding-top: 70px;
+  font-size: 32px;
+}
+
+article {
+  width: 463px;
+  height: 420px;
+  display: inline-block;
+}
