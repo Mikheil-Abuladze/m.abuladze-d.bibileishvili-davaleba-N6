@@ -10,7 +10,7 @@ img {
 
 .container {
   max-width: 1640px;
-  width: 90%;
+  width: 100%;
   margin: 0 auto;
 }
 .section-name {
@@ -28,4 +28,9 @@ article {
   width: 463px;
   height: 420px;
   display: inline-block;
+}
+.bg-paragraph {
+  width: 443px;
+  height: 125px;
+  background: rgb(233, 198, 198);
 }
