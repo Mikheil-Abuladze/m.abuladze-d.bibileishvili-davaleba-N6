@@ -3,6 +3,10 @@
   src: url("../Fonts/HELVETICA-NEUE-LT-GEO-75-BOLD.ttf") format("truetype");
 }
 
+.font2 {
+  font-family: "font2";
+}
+
 * {
   margin: 0;
   padding: 0;
