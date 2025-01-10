@@ -1,13 +1,25 @@
 @font-face {
+  font-family: "font1";
+  src: url("../Fonts/HELVETICANEUELTGEO-45LIGHTS.ttf");
+}
+
+@font-face {
   font-family: "font2";
   src: url("../Fonts/HELVETICA-NEUE-LT-GEO-75-BOLD.ttf") format("truetype");
+}
+
+.font1 {
+  font-family: "font1";
+}
+
+.font2 {
+  font-family: "font2";
 }
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-}
 
 img {
   width: 100%;
@@ -18,15 +30,11 @@ img {
   width: 100%;
   margin: 0 auto;
 }
+  
 .section-name {
   background: blue;
   max-width: 1920px;
   height: 308px;
-}
-h2 {
-  padding-left: 240px;
-  padding-top: 70px;
-  font-size: 32px;
 }
 
 .articles {
@@ -35,13 +43,21 @@ h2 {
   background-color: blueviolet;
 }
 
+h2 {
+  padding-left: 240px;
+  padding-top: 70px;
+  font-size: 32px;
+}
+
 article {
   width: 463px;
   height: 420px;
   display: inline-block;
 }
+
 .bg-paragraph {
   width: 443px;
   height: 125px;
   background: rgb(233, 198, 198);
+  margin: 0 auto;
 }
