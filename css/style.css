@@ -55,7 +55,7 @@ article {
   margin: 0 auto;
 }
 .Article-services {
-  width: 463px;
+  width: 1300px;
   height: 235px;
   display: inline-flex;
 }
@@ -64,4 +64,9 @@ article {
   color: #171717;
   text-transform: uppercase;
   opacity: 1; 
+}
+.Main-header {
+  font-family: 'HelveticaBold';
+  src: url('/Fonts/HELVETICA-NEUE-LT-GEO-75-BOLD.ttf');
+  width: calc(100%-1513px);
 }
