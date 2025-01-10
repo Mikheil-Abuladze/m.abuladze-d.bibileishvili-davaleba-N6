@@ -20,7 +20,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-
+}
 img {
   width: 100%;
 }
@@ -30,7 +30,7 @@ img {
   width: 100%;
   margin: 0 auto;
 }
-  
+
 .section-name {
   background: blue;
   max-width: 1920px;
