@@ -1,6 +1,15 @@
 @font-face {
+  font-family: "font1";
+  src: url("../Fonts/HELVETICANEUELTGEO-45LIGHTS.ttf");
+}
+
+@font-face {
   font-family: "font2";
   src: url("../Fonts/HELVETICA-NEUE-LT-GEO-75-BOLD.ttf") format("truetype");
+}
+
+.font1 {
+  font-family: "font1";
 }
 
 .font2 {
