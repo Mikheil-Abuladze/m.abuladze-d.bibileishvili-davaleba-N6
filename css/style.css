@@ -20,7 +20,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-
+}
 img {
   width: 100%;
 }
@@ -30,7 +30,7 @@ img {
   width: 100%;
   margin: 0 auto;
 }
-  
+
 .section-name {
   background: blue;
   max-width: 1920px;
@@ -42,18 +42,51 @@ img {
   width: 90%;
   background-color: blueviolet;
 }
-article {
+
+.paragraph {
+  padding-left: 240px;
+  padding-top: 70px;
+  font-size: 32px;
+}
+
+.pg-1 {
+  padding: 30px 74px 30px 30px;
+}
+.pg-2 {
+  padding: 28px 67px 29px 30px;
+}
+.pg-3 {
+  padding: 30px 74px 30px 30px;
+}
+
+.section-article {
   width: 463px;
   height: 420px;
   display: inline-block;
+  padding-right: 25px;
 }
 
 .bg-paragraph {
+  font-size: 18px;
   width: 443px;
   height: 125px;
-  background: rgb(233, 198, 198);
+  background: lightgray;
   margin: 0 auto;
 }
+
+.center {
+  padding-left: 120px;
+}
+
+.parent2 {
+  position: relative;
+}
+
+.parent2 p {
+  position: absolute;
+  bottom: 10px;
+}
+
 .Article-services {
   width: 1300px;
   height: 235px;
@@ -70,6 +103,7 @@ article {
   src: url('/Fonts/HELVETICA-NEUE-LT-GEO-75-BOLD.ttf');
   width: calc(100%-1513px);
 }
+
 .fixed {
   background-color: blue;
   width: 70px;
@@ -89,3 +123,4 @@ article {
   height: 70px;
   display: inline-block;
 }
+
