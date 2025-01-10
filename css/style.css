@@ -87,12 +87,20 @@ img {
   bottom: 10px;
 }
 
-/* .parent1 {
-  position: relative;
-} */
+.Article-services {
+  width: 1300px;
+  height: 235px;
+  display: inline-flex;
+}
+.Header-for-article {
+  letter-spacing: 0px;
+  color: #171717;
+  text-transform: uppercase;
+  opacity: 1; 
+}
+.Main-header {
+  font-family: 'HelveticaBold';
+  src: url('/Fonts/HELVETICA-NEUE-LT-GEO-75-BOLD.ttf');
+  width: calc(100%-1513px);
+}
 
-/* .parent1 section article {
-  position: absolute;
-  top: 1px;
-  left: 20px;
-} */
